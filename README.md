@@ -19,6 +19,13 @@ This card uses pure **CSS 3D transforms** (`preserve-3d`, `rotate3d`, `translate
 
 ---
 
+## 🎬 Video Demo
+
+<div align="center">
+  <video src="assets/demo.mp4" width="600" controls loop muted playsinline></video>
+  <p><i>▶️ Click the play button to see the 3D animation</i></p>
+</div>
+
 ## ✨ Features
 
 - 🎨 **Vibrant Mint Green Gradient** — Eye-catching linear gradient background
