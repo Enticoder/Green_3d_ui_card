@@ -43,11 +43,19 @@ This card uses pure **CSS 3D transforms** (`preserve-3d`, `rotate3d`, `translate
 
 > Hover over the card to see the 3D tilt animation and pop-out effects!
 
+
 | Normal State | Hover State |
 |:------------:|:-----------:|
 | Card at rest | Card tilts with layered 3D depth |
 
 ---
+
+## 🎬 Video Demo
+
+<div align="center">
+  <video src="assets/demo.mp4" width="600" controls loop muted playsinline></video>
+  <p><i>▶️ Click the play button to see the 3D animation</i></p>
+</div>
 
 ## 🚀 Getting Started
 
